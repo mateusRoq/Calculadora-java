@@ -14,7 +14,6 @@ public class Calculadora {
     public static void main(String[] args) {
         FrmCalculadora calc = new FrmCalculadora();
         calc.setLocationRelativeTo(calc);
-        calc.setBackground(Color.yellow);
         calc.setVisible(true);
     }
 }

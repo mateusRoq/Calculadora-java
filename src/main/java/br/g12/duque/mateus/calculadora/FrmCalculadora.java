@@ -48,9 +48,10 @@ public class FrmCalculadora extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Calculadora");
 
-        jTextField1.setBackground(new java.awt.Color(153, 153, 153));
+        jTextField1.setBackground(new java.awt.Color(204, 204, 204));
         jTextField1.setFont(new java.awt.Font("Segoe UI", 0, 36)); // NOI18N
         jTextField1.setForeground(new java.awt.Color(0, 0, 0));
+        jTextField1.setText("d");
         jTextField1.setBorder(null);
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -58,7 +59,7 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setBackground(new java.awt.Color(102, 102, 102));
+        jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton1.setForeground(new java.awt.Color(0, 0, 0));
         jButton1.setText("7");
@@ -68,7 +69,7 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setBackground(new java.awt.Color(102, 102, 102));
+        jButton2.setBackground(new java.awt.Color(255, 255, 255));
         jButton2.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton2.setForeground(new java.awt.Color(0, 0, 0));
         jButton2.setText("8");
@@ -78,22 +79,22 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setBackground(new java.awt.Color(102, 102, 102));
+        jButton3.setBackground(new java.awt.Color(255, 255, 255));
         jButton3.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton3.setForeground(new java.awt.Color(0, 0, 0));
         jButton3.setText("9");
 
-        jButton4.setBackground(new java.awt.Color(102, 102, 102));
+        jButton4.setBackground(new java.awt.Color(255, 255, 255));
         jButton4.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton4.setForeground(new java.awt.Color(0, 0, 0));
         jButton4.setText("X");
 
-        jButton5.setBackground(new java.awt.Color(102, 102, 102));
+        jButton5.setBackground(new java.awt.Color(255, 255, 255));
         jButton5.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton5.setForeground(new java.awt.Color(0, 0, 0));
         jButton5.setText("4");
 
-        jButton6.setBackground(new java.awt.Color(102, 102, 102));
+        jButton6.setBackground(new java.awt.Color(255, 255, 255));
         jButton6.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton6.setForeground(new java.awt.Color(0, 0, 0));
         jButton6.setText("5");
@@ -103,22 +104,22 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton7.setBackground(new java.awt.Color(102, 102, 102));
+        jButton7.setBackground(new java.awt.Color(255, 255, 255));
         jButton7.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton7.setForeground(new java.awt.Color(0, 0, 0));
         jButton7.setText("6");
 
-        jButton8.setBackground(new java.awt.Color(102, 102, 102));
+        jButton8.setBackground(new java.awt.Color(255, 255, 255));
         jButton8.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton8.setForeground(new java.awt.Color(0, 0, 0));
         jButton8.setText("÷");
 
-        jButton9.setBackground(new java.awt.Color(102, 102, 102));
+        jButton9.setBackground(new java.awt.Color(255, 255, 255));
         jButton9.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton9.setForeground(new java.awt.Color(0, 0, 0));
         jButton9.setText("1");
 
-        jButton10.setBackground(new java.awt.Color(102, 102, 102));
+        jButton10.setBackground(new java.awt.Color(255, 255, 255));
         jButton10.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton10.setForeground(new java.awt.Color(0, 0, 0));
         jButton10.setText("2");
@@ -128,22 +129,22 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton11.setBackground(new java.awt.Color(102, 102, 102));
+        jButton11.setBackground(new java.awt.Color(255, 255, 255));
         jButton11.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton11.setForeground(new java.awt.Color(0, 0, 0));
         jButton11.setText("3");
 
-        jButton12.setBackground(new java.awt.Color(102, 102, 102));
+        jButton12.setBackground(new java.awt.Color(255, 255, 255));
         jButton12.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton12.setForeground(new java.awt.Color(0, 0, 0));
         jButton12.setText("-");
 
-        jButton13.setBackground(new java.awt.Color(102, 102, 102));
+        jButton13.setBackground(new java.awt.Color(255, 255, 255));
         jButton13.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton13.setForeground(new java.awt.Color(0, 0, 0));
         jButton13.setText(".");
 
-        jButton14.setBackground(new java.awt.Color(102, 102, 102));
+        jButton14.setBackground(new java.awt.Color(255, 255, 255));
         jButton14.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton14.setForeground(new java.awt.Color(0, 0, 0));
         jButton14.setText("0");
@@ -153,17 +154,17 @@ public class FrmCalculadora extends javax.swing.JFrame {
             }
         });
 
-        jButton15.setBackground(new java.awt.Color(102, 102, 102));
+        jButton15.setBackground(new java.awt.Color(255, 255, 255));
         jButton15.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton15.setForeground(new java.awt.Color(0, 0, 0));
         jButton15.setText("=");
 
-        jButton16.setBackground(new java.awt.Color(102, 102, 102));
+        jButton16.setBackground(new java.awt.Color(255, 255, 255));
         jButton16.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         jButton16.setForeground(new java.awt.Color(0, 0, 0));
         jButton16.setText("+");
 
-        jButton17.setBackground(new java.awt.Color(102, 102, 102));
+        jButton17.setBackground(new java.awt.Color(153, 153, 153));
         jButton17.setForeground(new java.awt.Color(0, 0, 0));
         jButton17.setText("LIMPAR");
         jButton17.addActionListener(new java.awt.event.ActionListener() {
@@ -264,6 +265,7 @@ public class FrmCalculadora extends javax.swing.JFrame {
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         // TODO add your handling code here:
+        jTextField1.setText("7");
     }//GEN-LAST:event_jButton10ActionPerformed
 
     private void jButton14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton14ActionPerformed
